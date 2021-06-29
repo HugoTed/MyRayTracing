@@ -30,3 +30,4 @@
 *.exe
 *.out
 *.app
+/MyRayTracing/.vs/MyRayTracing/v16/Browse.VC.opendb
