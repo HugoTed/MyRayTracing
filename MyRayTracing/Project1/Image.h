@@ -6,6 +6,7 @@
 class Image
 {
 public:
+	Image();
 	Image(int image_width, int image_height);
 	~Image();
 	int image_width = 256;
