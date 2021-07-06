@@ -3,6 +3,7 @@
 
 #include "ray.h"
 #include "rtweekend.h"
+//#include "material.h"
 
 class material;
 
